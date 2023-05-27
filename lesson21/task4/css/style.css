@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,700');
+
+body{
+	font-family: 'Lato';
+	background-color: rgb(213, 204, 175);
+	font-size: 20px;
+	font-weight: 300;
+	padding: 20px;
+}
+#container{
+	font-size: 30px;
+	margin-top: 20px;
+
+
+}
+.table{
+	border: 3px solid ;
+	margin-bottom: 20px;
+}
+.column{
+	border: 1px solid;
+}

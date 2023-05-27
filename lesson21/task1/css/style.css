@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,700');
+
+body{
+	font-family: 'Lato';
+	background-color: rgb(213, 204, 175);
+	font-size: 20px;
+	font-weight: 300;
+}
+.container{
+	border: 2px solid red;
+	width: 70px;
+}
